@@ -4,7 +4,7 @@ Ca$h Knob -- A jQuery-free fork of [jQuery Knob](https://github.com/aterrien/jQu
 - canvas based ; no png or jpg sprites.
 - touch, mouse and mousewheel, keyboard events implemented.
 - downward compatible ; overloads an input element.
-- Not 100% functional.  See the
+- Not 100% functional.  See the demo included in the code.
 
 Example
 -------
